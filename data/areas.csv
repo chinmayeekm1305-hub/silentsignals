@@ -1,0 +1,23 @@
+area,region,disaster,lat,lon,terrain_risk,hazard_intensity,population,elderly_pct,terrain_note,hazard_note
+Bellandur,Flood - Bengaluru East,flood,12.9265,77.6770,0.90,0.90,60000,9,Low land next to a lake,160 mm rain in 12 h
+Mahadevapura,Flood - Bengaluru East,flood,12.9900,77.7030,0.60,0.80,80000,8,Partly low land,130 mm rain in 12 h
+Varthur,Flood - Bengaluru East,flood,12.9406,77.7470,0.80,0.85,40000,10,Low land next to a lake,145 mm rain in 12 h
+Yemalur,Flood - Bengaluru East,flood,12.9520,77.6850,0.50,0.80,25000,8,Mixed land,130 mm rain in 12 h
+HSR Layout,Flood - Bengaluru East,flood,12.9120,77.6380,0.40,0.70,90000,9,Mostly raised land,110 mm rain in 12 h
+Sarjapur Road,Flood - Bengaluru East,flood,12.9090,77.6865,0.70,0.85,70000,7,Low-lying stretch,145 mm rain in 12 h
+Kaikondrahalli Colony,Flood - Bengaluru East,flood,12.9150,77.6700,0.95,0.90,15000,16,Lowest land in the ward; lake overflow path,160 mm rain in 12 h
+Paradip,Cyclone - Odisha Coast,cyclone,20.3165,86.6114,0.90,0.90,70000,8,On the coast,Wind 150 km/h; in cyclone path
+Puri,Cyclone - Odisha Coast,cyclone,19.8120,85.8280,0.80,0.60,200000,9,On the coast,Wind 100 km/h; edge of cyclone path
+Kujang,Cyclone - Odisha Coast,cyclone,20.3030,86.5250,0.80,0.85,30000,11,Near river mouth,Wind 140 km/h; in cyclone path
+Astaranga,Cyclone - Odisha Coast,cyclone,19.9800,86.3500,0.70,0.60,20000,10,Near the coast,Wind 110 km/h
+Pentha,Cyclone - Odisha Coast,cyclone,20.4300,86.7700,1.00,0.95,6000,14,Fishing village on the beach,Wind 160 km/h; landfall point
+Uttarkashi Town,Earthquake - Uttarkashi,earthquake,30.7275,78.4365,0.70,0.95,20000,10,Many old buildings,3 km from quake centre (M6.1)
+Maneri,Earthquake - Uttarkashi,earthquake,30.7430,78.5300,0.50,0.60,5000,9,Mixed buildings,9 km from quake centre
+Chinyalisaur,Earthquake - Uttarkashi,earthquake,30.5770,78.3280,0.40,0.30,8000,9,Newer buildings,20 km from quake centre
+Bhatwari,Earthquake - Uttarkashi,earthquake,30.8090,78.6150,0.70,0.45,3000,12,Steep hillside village,19 km from quake centre
+Joshiyara Old Town,Earthquake - Uttarkashi,earthquake,30.7180,78.4480,1.00,0.95,7000,15,Old stone and mud houses,2 km from quake centre
+Chooralmala,Landslide - Wayanad Hills,landslide,11.4946,76.1455,0.90,0.90,4000,10,Steep valley below the hill,280 mm rain in 24 h
+Meppadi,Landslide - Wayanad Hills,landslide,11.5570,76.1330,0.70,0.80,15000,9,Hill slopes,240 mm rain in 24 h
+Vythiri,Landslide - Wayanad Hills,landslide,11.5500,76.0400,0.50,0.60,10000,9,Gentle slopes,180 mm rain in 24 h
+Kalpetta,Landslide - Wayanad Hills,landslide,11.6085,76.0830,0.60,0.70,30000,9,Town with some slopes,200 mm rain in 24 h
+Mundakkai Upper Village,Landslide - Wayanad Hills,landslide,11.4750,76.1560,1.00,0.95,2500,13,Steepest slope; between two slides,300 mm rain in 24 h
