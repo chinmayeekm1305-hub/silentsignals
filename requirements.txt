@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+folium>=0.17
+streamlit-folium>=0.22
+google-genai>=1.0
+Pillow>=10.0
